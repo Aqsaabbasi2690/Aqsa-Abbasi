@@ -45,7 +45,8 @@ Others
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
+<img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="60" height="60"/>
+
 </p>
 <p>
 
