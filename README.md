@@ -8,15 +8,16 @@
 
 
 # My Skill Set🛠️:
-Frontend
+
 <table>
 <tr>
 <td>
-Code Editors
+Frontend
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="Vim" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" alt="PyCharm" width="50" height="50"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50" />
+        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Material-UI" width="50" height="50" />
 </p>
 </td>
 <td>
