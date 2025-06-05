@@ -76,6 +76,6 @@ Others
 
 #Connect With Me
 <div align="center">
- <a href="mailto:aqsaabbasi2690@gmail.com">Email</a>
+ <a href="aqsaabbasi2690@gmail.com">Email</a>
    <a href="https://leetcode.com/u/Aqsa-abbasi26/">Leetcode</a>
 </div>
