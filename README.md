@@ -11,37 +11,60 @@
 
 # My Skill Set🛠️:
 
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Machine Learning
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python&perline=3" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
 ### Frontend
-<a href="https://github.com/Aqsaabbasi2690">
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,materialui&perline=4" />
 </div>
-</a>
+
+</td>
+<td valign="top" width="33%">
 
 ### Backend
-<a href="https://github.com/Aqsaabbasi2690">
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mysql,firebase,nodejs,express,mongodb&perline=4" />
 </div>
-</a>
-</td><td valign="top" width="25%">
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+### Code Editors
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode&perline=3" />
+</div>
+
+</td>
+<td valign="top" width="33%">
 
 ### Languages
-<a href="https://github.com/Aqsaabbasi2690">
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,python&perline=4" />
 </div>
-</a>
-</td><td valign="top" width="25%">
+
+</td>
+<td valign="top" width="33%">
 
 ### Others
-<a href="https://github.com/Aqsaabbasi2690">
- <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vite,postman,discord,vscode,vercel,npm,&perline=4" />
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,vite,postman,discord,vscode,vercel,npm&perline=4" />
 </div>
- </a>
- </td>
- </tr></table>
+
+</td>
+</tr>
+</table>
  
 # Connect With Me
 <div align="center">
