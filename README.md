@@ -29,16 +29,16 @@
 </div>
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="33%">
-
+ 
 ### Code Editors
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm&perline=3" />
+    <img src="https://skillicons.dev/icons?i=vscode&perline=3" />
 </div>
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="33%">
 
 ### Languages
@@ -51,8 +51,13 @@
 
 ### Others
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,vite,postman,discord,vscode,vercel,npm&perline=4" />
+    <img src="https://skillicons.dev/icons?i=git,github,vite,postman,discord,vscode,vercel,npm&perline=4" />
 </div>
+
+</td>
+<td valign="top" width="33%">
+
+
 
 </td>
 </tr>
