@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td>
-      Frontend
+   <h3 align="center">Frontend</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
@@ -27,7 +27,7 @@
 </p>
        </td>
     <td>
-Backend
+   <h3 align="center">Backend</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
@@ -38,7 +38,7 @@ Backend
 </p>
       </td>
     <td> 
-Code Editors
+   <h3 align="center">Code Editor</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
   <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm" width="60" height="60"/>
