@@ -1,7 +1,7 @@
 <h1>Hello,I am Aqsa Abbasi</h1>
 - 💻 Currently working as MERN Stack Engineer. <br/>
 - 🚀 Actively participating in coding competitions & hackathons.  <br/>     
-- 📩 How to reach me: 📧 Email: [aqsaabbasi2690@gmail.com](mailto:aqsaabbasi2690@gmail.com)
+- 📩 How to reach me: <a href="mailto:aqsaabbasi2690@gmail.com">Email</a>
 
  <br/>  
 - 📞 Don't hesitate to reach out & let's connect and start a conversation.<br/>
@@ -78,6 +78,6 @@ Others
 
 #Connect With Me
 <div align="center">
- <a href="aqsaabbasi2690@gmail.com">Email</a>
+ <a href="mailto:aqsaabbasi2690@gmail.com">Email</a>
    <a href="https://leetcode.com/u/Aqsa-abbasi26/">Leetcode</a>
 </div>
