@@ -15,14 +15,6 @@
 <tr>
 <td valign="top" width="33%">
 
-### Machine Learning
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python&perline=3" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
 ### Frontend
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,materialui&perline=4" />
@@ -43,7 +35,7 @@
 
 ### Code Editors
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode&perline=3" />
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm&perline=3" />
 </div>
 
 </td>
