@@ -9,8 +9,10 @@
 
 # My Skill Set🛠️:
 
-
-Frontend
+<table>
+  <td>
+    <tr>
+      Frontend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
@@ -36,6 +38,12 @@ Code Editors
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
   <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm" width="60" height="60"/>
 </p>
+    </tr>
+  </td>
+</table>
+<table>
+  <td>
+    <tr>
 Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
@@ -53,3 +61,6 @@ Others
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg" alt="Slack" width="60" height="60"/>
 </p>
 </div>
+  </tr>
+  </td>
+</table>
