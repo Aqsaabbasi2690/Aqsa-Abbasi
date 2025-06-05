@@ -61,6 +61,11 @@
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aqsaabbasi2690&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aqsaabbasi2690&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
   </a>
+ <p align="center">
+<a href="https://github.com/Aqsaabbasi2690">
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aqsaabbasi2690&theme=algolia&hide_border=true" />
+</a>
+</p>
 </p>
 
 
