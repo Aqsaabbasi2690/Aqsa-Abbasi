@@ -57,8 +57,9 @@ Languages
 Others
 <p>
 
-<img src="https://cdn.discordapp.com/icons/872476940263702548/a_3a80b8f6c2936e192ce4a351e2166fc2.png?size=96" alt="Discord" width="60" height="60" />
-
+<div style="width:60px; height:60px; background-color:#5865F2; display:flex; align-items:center; justify-content:center; border-radius:12px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo_white.svg" alt="Discord" style="width:30px; height:30px;" />
+</div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="60" height="60"/>
 
 
