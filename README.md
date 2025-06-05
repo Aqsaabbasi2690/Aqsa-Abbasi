@@ -51,7 +51,7 @@
 
 ### Others
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,vite,postman,discord,vscode,vercel,npm&perline=4" />
+    <img src="https://skillicons.dev/icons?i=github,vite,postman,discord,vscode,vercel,npm&perline=4" />
 </div>
 
 </td>
