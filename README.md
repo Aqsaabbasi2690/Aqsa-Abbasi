@@ -79,5 +79,8 @@ Others
 #Connect With Me
 <div align="center">
  <a href="mailto:aqsaabbasi2690@gmail.com">Email</a>
+  
    <a href="https://leetcode.com/u/Aqsa-abbasi26/">Leetcode</a>
+   <a href="https://www.linkedin.com/in/aqsa-abbasi-61b01b309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg</a>
 </div>
