@@ -71,3 +71,10 @@ Others
   </tr>
   </td>
 </table>
+
+
+
+#Connect With Me
+<div align="center">
+ <a href="mailto:aqsaabbasi2690@gmail.com">aqsaabbasi2690@gmail.com</a>
+</div>
