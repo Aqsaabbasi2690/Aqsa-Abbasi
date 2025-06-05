@@ -33,7 +33,7 @@
  
 ### Code Editors
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode&perline=3" />
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm&perline=3" />
 </div>
 
 </td>
@@ -55,10 +55,6 @@
 </div>
 
 </td>
-<td valign="top" width="33%">
-
-
-
 </td>
 </tr>
 </table>
