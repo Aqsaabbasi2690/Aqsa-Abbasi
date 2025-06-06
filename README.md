@@ -1,3 +1,8 @@
+<a href="https://github.com/Aqsaabbasi2690">
+    <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Aqsaabbasi2690&data=followers,repositories,stars,commits&theme=nautilus">
+</a>
+
+
 <h1>Hello,I am Aqsa Abbasi</h1>
 - 💻 Currently working as MERN Stack Engineer. <br/>
 - 🚀 Actively participating in coding competitions & hackathons.  <br/>     
